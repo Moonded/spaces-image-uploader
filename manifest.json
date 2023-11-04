@@ -1,0 +1,10 @@
+{
+	"id": "s3-image-uploader",
+	"name": "Spaces Image Uploader",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "This is an image uploader for Obsidian that allows you to self host images on AWS s3 and DigitalOcean Spaces.",
+	"author": "Moonded",
+	"authorUrl": "https://github.com/moonded",
+	"isDesktopOnly": false
+}
